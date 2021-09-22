@@ -1,12 +1,12 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v19j13 ",
+"JSON_POPUP_WAIT" : "Loading . . . ",
 
 "MODE_NO_ADS" : false,
-"MODE_BACKUP_ADS" : true,
+"MODE_BACKUP_ADS" : false,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -16,36 +16,36 @@
 //     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "TAPDAQ",
+"PENGATURAN_IKLAN_INTER" : "TAPDAQ",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTERS_COUNT_WEB" : 5,
+"INTERS_COUNT_WEB" : 3,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
-"STARAPPID" : "YOUR_APP_ID",
+"STARAPPID" : "208201580",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/63009781xx",
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/10331737xx",
+"ADMOB_NATIV" : "ca-app-pub-1003836792919645/2592341573",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "inter",
-"UNITY_GAME_ID" : "4114625",
-"UNITY_TEST_MODE" : false,
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4372911",
+"UNITY_TEST_MODE" : true,
 
-"APPLOVIN_BANNER_ID" : "ISIAN",
-"APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
+"APPLOVIN_BANNER_ID" : "927fab631969f7xx",
+"APPLOVIN_INTERSTITIAL_ID" : "582394d472639exx",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "bank jenius",
-"HPK_ADMOB3" : "bank jago",
-"HPK_ADMOB4" : "telkomsel",
-"HPK_ADMOB5" : "donasi",
+"hpk_alien" : "Used Cars For Sale",
+"hpkadmob1" : "Car Insurance",
+"hpkadmob2" : "Car Donate",
+"hpkadmob3" : "Best Online Car Shop",
+"hpkadmob4" : "Car Seat Covers",
+"hpkadmob5" : "Car Magazine",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
@@ -53,32 +53,20 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
-"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+"TAPDAQ_APP_ID" : "614af8ac86c31c4e07c10d79",
+"TAPDAQ_CLIENT_KEY" : "08b7f9a1-66cc-439d-8ced-71e1b6529fee",
 
-"BUTTON_RATING" : "RATING",
-"BUTTON_SHARE" : "SHARE TO FRIEND",
+"BUTTON_RATING" : "RATE APP",
+"BUTTON_SHARE" : "SHARE TO FRIENDS",
 "BUTTON_START" : "START",
 
-"EXIT_POPUP_DIALOG" : "
-jika kamu menikmati aplikasi ini
-
-bantu kami dengan rating bintang 5 ya
-
-klik tombol rating
-
-",
-"RATE_BUTTON" : "RATING 5 STARS",
-"LATER_BUTTON" : "LATER",
-"ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "
-wah aplikasi ini bagus banget
-aku udah nyobain 
-coba deh kamu donwload sekrang juga
-
-",
-"MORE_BUTTON" : "SHARE VIA WHATSAPP",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+"EXIT_POPUP_DIALOG" : "Help us by giving a 5 stars rating, so we keep the spirit of providing the latest updates.",
+"RATE_BUTTON" : "Rate & Review",
+"LATER_BUTTON" : "Back to Home",
+"ENABLE_SHARE_BUTTON" : false,
+"SHARE_TXT" : "Share this app",
+"MORE_BUTTON" : "Recommended App",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.zerocorp.lamborghiniwallpapershd",
 
 "REDIRECT_TRAFFIC" : false,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
