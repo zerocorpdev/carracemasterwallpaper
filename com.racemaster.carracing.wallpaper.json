@@ -1,10 +1,10 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Loading . . . ",
+"JSON_POPUP_WAIT" : "Loading data . . ",
 
 "MODE_NO_ADS" : false,
-"MODE_BACKUP_ADS" : false,
+"MODE_BACKUP_ADS" : true,
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
 
@@ -20,7 +20,7 @@
 "PENGATURAN_IKLAN_INTER" : "TAPDAQ",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTERS_COUNT_WEB" : 1,
+"INTERS_COUNT_WEB" : 2,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
