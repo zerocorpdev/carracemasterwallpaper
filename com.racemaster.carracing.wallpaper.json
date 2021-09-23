@@ -40,12 +40,12 @@
 "APPLOVIN_BANNER_ID" : "927fab631969f7xx",
 "APPLOVIN_INTERSTITIAL_ID" : "582394d472639exx",
 
-"hpk_alien" : "Used Cars For Sale",
-"hpkadmob1" : "Car Insurance",
-"hpkadmob2" : "Car Donate",
-"hpkadmob3" : "Best Online Car Shop",
-"hpkadmob4" : "Car Seat Covers",
-"hpkadmob5" : "Car Magazine",
+"HPK_ALIENDROID" : "Used Cars For Sale",
+"HPK_ADMOB1" : "Car Insurance",
+"HPK_ADMOB2" : "Car Donate",
+"HPK_ADMOB3" : "Best Online Car Shop",
+"HPK_ADMOB4" : "Car Seat Covers",
+"HPK_ADMOB5" : "Car Magazine",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
