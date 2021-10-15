@@ -16,15 +16,15 @@
 //     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "TAPDAQ",
-"PENGATURAN_IKLAN_INTER" : "TAPDAQ",
-"PENGATURAN_IKLAN_NATIVE" : "TAPDAQ",
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
 "INTERS_COUNT_WEB" : 2,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
 "STARAPPID" : "208201580",
 
@@ -61,7 +61,7 @@
 "BUTTON_START" : "START",
 
 "EXIT_POPUP_DIALOG" : "Help us by giving a 5 star rating so we keep the spirit of providing the latest updates",
-"RATE_BUTTON" : "Rate and Review",
+"RATE_BUTTON" : "Rate App",
 "LATER_BUTTON" : "Home",
 "ENABLE_SHARE_BUTTON" : false,
 "SHARE_TXT" : "Share this app",
