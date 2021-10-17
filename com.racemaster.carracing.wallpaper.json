@@ -1,7 +1,7 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Loading data . . ",
+"JSON_POPUP_WAIT" : "Loading data . . .",
 
 "MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : true,
@@ -53,8 +53,8 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"TAPDAQ_APP_ID" : "614af8ac86c31c4e07c10d79",
-"TAPDAQ_CLIENT_KEY" : "08b7f9a1-66cc-439d-8ced-71e1b6529fee",
+"TAPDAQ_APP_ID" : "616c2e0008fe6c2d735d70e0",
+"TAPDAQ_CLIENT_KEY" : "31f7e325-302b-4c9a-a2ba-ebd0dfd764dd",
 
 "BUTTON_RATING" : "RATE APP",
 "BUTTON_SHARE" : "SHARE TO FRIENDS",
