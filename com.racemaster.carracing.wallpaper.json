@@ -20,7 +20,7 @@
 "PENGATURAN_IKLAN_INTER" : "TAPDAQ",
 "PENGATURAN_IKLAN_NATIVE" : "TAPDAQ",
 
-"INTERS_COUNT_WEB" : 2,
+"INTERS_COUNT_WEB" : 20,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -64,7 +64,7 @@
 "RATE_BUTTON" : "Rate App",
 "LATER_BUTTON" : "Home",
 "ENABLE_SHARE_BUTTON" : false,
-"SHARE_TXT" : "Share this app",
+"SHARE_TXT" : "Super App Install Now",
 "MORE_BUTTON" : "Recommended App",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.zerocorp.lamborghiniwallpapershd",
 
