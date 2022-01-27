@@ -16,21 +16,21 @@
 //     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "UNITY",
-"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTERS_COUNT_WEB" : 5,
+"INTERS_COUNT_WEB" : 1,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : true,
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
 "STARAPPID" : "208201580",
 
-"ADMOB_BANNER" : "ca-app-pub-1003836792919645/252018938",
-"ADMOB_INTER" : "ca-app-pub-1003836792919645/278391326",
-"ADMOB_NATIV" : "ca-app-pub-1003836792919645/259234157x",
+"ADMOB_BANNER" : "ca-app-pub-1003836792919645/3639551477",
+"ADMOB_INTER" : "ca-app-pub-1003836792919645/8205482449",
+"ADMOB_NATIV" : "ca-app-pub-1003836792919645/3233013908",
 
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
@@ -40,12 +40,12 @@
 "APPLOVIN_BANNER_ID" : "927fab631969f7",
 "APPLOVIN_INTERSTITIAL_ID" : "582394d472639e",
 
-"HPK_ALIENDROID" : "Used Cars For Sale",
-"HPK_ADMOB1" : "Car Insurance",
-"HPK_ADMOB2" : "Car Donate",
-"HPK_ADMOB3" : "Best Online Car Shop",
-"HPK_ADMOB4" : "Car Seat Covers",
-"HPK_ADMOB5" : "Car Magazine",
+"HPK_ALIENDROID" : "",
+"HPK_ADMOB1" : "",
+"HPK_ADMOB2" : "",
+"HPK_ADMOB3" : "",
+"HPK_ADMOB4" : "",
+"HPK_ADMOB5" : "",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
@@ -57,7 +57,7 @@
 "TAPDAQ_CLIENT_KEY" : "31f7e325-302b-4c9a-a2ba-ebd0dfd764dd",
 
 "BUTTON_RATING" : "RATE APP",
-"BUTTON_SHARE" : "SHARE TO FRIENDS",
+"BUTTON_SHARE" : "SHARE",
 "BUTTON_START" : "START",
 
 "EXIT_POPUP_DIALOG" : "Help us by giving a 5 star rating so we keep the spirit of providing the latest updates",
